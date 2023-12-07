@@ -1,9 +1,9 @@
 import "./App.css";
-
+import Game from "./components/Game";
 function App() {
   return (
     <div className="App">
-      <p>test</p>
+      <Game rows={20} columns={10} />
     </div>
   );
 }
