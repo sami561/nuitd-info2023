@@ -1,3 +1,31 @@
+# 404 Error - Page Not Found
+
+Oops! It looks like you've stumbled upon a missing page. But don't worry, we've got something to keep you entertained!
+
+## Tetris Game
+
+We've added a Tetris game here for some fun while you explore:
+
+[Play Tetris](#) <!-- Replace # with the link to your Tetris game -->
+
+### How to Play
+
+- Use the arrow keys to move the Tetris blocks.
+- Rotate blocks using the 'Up' arrow key.
+- Fill complete rows to clear blocks.
+
+## What Happened?
+
+This page doesn't exist or might have been moved. We're sorry for the inconvenience. If you believe this is an error, please contact us.
+
+## More Information
+
+For more information or if you have any questions, feel free to contact us at [contact@example.com](mailto:contact@example.com).
+
+---
+
+Enjoy the game! 🎮
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
