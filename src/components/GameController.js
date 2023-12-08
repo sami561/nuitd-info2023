@@ -35,7 +35,11 @@ const GameController = ({
       } else {
         resumeDropTime();
       }
-    } else if (action === Action.Quit) {
+    } else if (
+      action === Action.Quit ||
+      action === Action.GameOver ||
+      gameStats.points === 101
+    ) {
       setGameOver(true);
     } else {
       if (actionIsDrop(action)) pauseDropTime();

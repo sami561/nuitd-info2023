@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+}
+.bg-image {
+  width: 100%;
+  height: 50vh;
+  object-fit: cover;
+}
+.pargraphSwipper {
+  width: 100%;
+  height: 49vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.innerpargraphSwipper {
+  border-radius: 12px;
+  background: #eff0f6;
+  width: 100%;
+  height: 100%;
+}
+.pSwipper {
+  color: var(--black, #000);
+  font-family: Poppins;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding: 30px;
+}
